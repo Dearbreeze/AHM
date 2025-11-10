@@ -24,5 +24,5 @@ To train the model, run this command:
 
 ```train
 $ cd ./src/
-$ python main.py 
+$ python Train.py 
 ```
