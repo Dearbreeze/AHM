@@ -23,5 +23,6 @@ To download datasets:
 To train the model, run this command:
 
 ```train
-python Train_torch.py
+$ cd ./src/
+$ python main.py 
 ```
