@@ -13,11 +13,6 @@ We recommend Anaconda as the environment
 * opencv-python
 * visdom
 
-### Datasets
-To download datasets:
-- [Cardiac](https://www.kaggle.com/datasets/adarshsng/heart-mri-image-dataset-left-atrial-segmentation)
-- [TCIA](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
-
 ### Training
 
 To train the model, run this command:
@@ -26,3 +21,7 @@ To train the model, run this command:
 $ cd ./src/
 $ python Train.py 
 ```
+### Datasets
+To download datasets:
+- [Cardiac](https://www.kaggle.com/datasets/adarshsng/heart-mri-image-dataset-left-atrial-segmentation)
+- [TCIA](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
